@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="obs-bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3b2366"/>
+      <stop offset="100%" stop-color="#1a102e"/>
+    </linearGradient>
+    <linearGradient id="obs-facet-main" x1="20" y1="10" x2="46" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#a882ff"/>
+      <stop offset="55%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#512da8"/>
+    </linearGradient>
+    <linearGradient id="obs-facet-light" x1="18" y1="12" x2="34" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#d4bfff"/>
+      <stop offset="100%" stop-color="#9668ff"/>
+    </linearGradient>
+    <linearGradient id="obs-facet-dark" x1="30" y1="28" x2="48" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6536d6"/>
+      <stop offset="100%" stop-color="#3c1b8a"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#obs-bg)"/>
+  <polygon points="28,10 44,18 48,38 35,54 18,46 16,24" fill="url(#obs-facet-main)"/>
+  <polygon points="28,10 34,26 16,24" fill="url(#obs-facet-light)"/>
+  <polygon points="28,10 44,18 34,26" fill="#b794ff" fill-opacity="0.85"/>
+  <polygon points="34,26 44,18 48,38 35,54" fill="url(#obs-facet-dark)"/>
+  <polygon points="16,24 34,26 35,54 18,46" fill="#6f42c1" fill-opacity="0.9"/>
+  <polyline points="28,10 34,26 35,54" stroke="#e9dcff" stroke-width="1.2" stroke-opacity="0.65" stroke-linejoin="round"/>
+  <polyline points="16,24 34,26 44,18" stroke="#e9dcff" stroke-width="1.2" stroke-opacity="0.55" stroke-linejoin="round"/>
+</svg>

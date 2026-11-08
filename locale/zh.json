@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Obsidian 笔记工作台",
+    "description": "连接本地 Obsidian 笔记库，在侧栏提供 Obsidian 入口，支持查看现有库并在阅读与编辑笔记的同时与 AI 进行对话。"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+.acl-recovery/
+_dsh_asar_ls.mjs
+_dsh_asar_files.json
+*.log
+.DS_Store

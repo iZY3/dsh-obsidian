@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Obsidian vault workspace",
+    "description": "Connects to local Obsidian vaults with a sidebar entry, vault browser, markdown note viewer/editor, and side-by-side AI conversation."
+  }
+}
